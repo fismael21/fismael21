@@ -1,4 +1,12 @@
+![BackGround](https://github.com/fismael21/fismael21/blob/main/img/MyBack.png)
+
+# Hello, World!
+
+I'm a software engineering student focused on creating and developing quality software.
+
 ## Programming Languages
+
+Currently, I'm mostly working with this programming languages, but I'm also learning C# and advanced topics of JavaScript!
 
 ![Python](https://github.com/fismael21/fismael21/blob/main/img/Python-64.png)
 ![Java](https://github.com/fismael21/fismael21/blob/main/img/Java-64.png)
@@ -10,7 +18,7 @@
 
 ![MySQL](https://github.com/fismael21/fismael21/blob/main/img/MySQL-64.png)
 
-### How to reach me
+## How to reach me
 Email: fernandoismaelvirgo@gmail.com
 
 
