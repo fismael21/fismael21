@@ -22,7 +22,7 @@ Currently, I'm mostly working with this programming languages, but I'm also lear
 
 ![NetBeans](https://github.com/fismael21/fismael21/blob/main/img/NetBeans-64.png)
 ![VSC](https://github.com/fismael21/fismael21/blob/main/img/VSC-64.png)
-
+![Git](https://github.com/fismael21/fismael21/blob/main/img/Git-64.png)
 
 ## How to reach me
 Email: fernandoismaelvirgo@gmail.com
