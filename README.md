@@ -1,6 +1,13 @@
 ## Programming Languages
 
 ![Python](https://github.com/fismael21/fismael21/blob/main/img/Python-64.png)
+![Java](https://github.com/fismael21/fismael21/blob/main/img/Java-64.png)
+![C++](https://github.com/fismael21/fismael21/blob/main/img/Cpp-64.png)
+![C](https://github.com/fismael21/fismael21/blob/main/img/C-64.png)
+![JavaScript](https://github.com/fismael21/fismael21/blob/main/img/JS-64.png)
+
+
+
 
 ### How to reach me
 Email: fernandoismaelvirgo@gmail.com
