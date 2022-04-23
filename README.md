@@ -1,9 +1,6 @@
-# Who's fismael21?
-Hello, World! My name is Fernado Canul, I'm a software engineering student. 
-
 ## Programming Languages
 
-Currently, I mostly use Java, JavaScript, Python, C and C++ for programming, but I'm also learning C# and advanced topics of JavaScript along with CSS. 
+![Python](https://github.com/fismael21/fismael21/blob/main/img/Python-64.png)
 
 ### How to reach me
 Email: fernandoismaelvirgo@gmail.com
