@@ -6,13 +6,12 @@ I'm a software engineering student focused on creating and developing quality so
 
 ## Programming Languages
 
-Currently, I'm mostly working with this programming languages, but I'm also learning C# and advanced topics of JavaScript!
-
 ![Python](https://github.com/fismael21/fismael21/blob/main/img/Python-64.png)
 ![Java](https://github.com/fismael21/fismael21/blob/main/img/Java-64.png)
 ![C++](https://github.com/fismael21/fismael21/blob/main/img/Cpp-64.png)
 ![C](https://github.com/fismael21/fismael21/blob/main/img/C-64.png)
 ![JavaScript](https://github.com/fismael21/fismael21/blob/main/img/JS-64.png)
+![CSharp](https://github.com/fismael21/fismael21/blob/main/img/CSharp-64.png)
 
 ## Databases
 
