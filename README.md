@@ -19,7 +19,6 @@ I'm a software engineering student focused on creating and developing quality so
 ![NetBeans](https://github.com/fismael21/fismael21/blob/main/img/NetBeans-64.png)
 ![VSC](https://github.com/fismael21/fismael21/blob/main/img/VSC-64.png)
 ![Git](https://github.com/fismael21/fismael21/blob/main/img/Git-64.png)
-![Eclipse](https://github.com/fismael21/fismael21/blob/main/img/Eclipse-64.png)
 ![EmbarcaderoCpp](https://github.com/fismael21/fismael21/blob/main/img/Emb-64.png)
 
 ## How to reach me
