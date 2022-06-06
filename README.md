@@ -1,21 +1,8 @@
-![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Cover.png)
+![BackGround](https://github.com/fismael21/fismael21/blob/main/img/MeMe2.png)
 
 # Hello, World!
 
 I'm a software engineering student focused on creating and developing quality software.
-
-## Programming Languages
-
-![Python](https://github.com/fismael21/fismael21/blob/main/img/Python-64.png)
-![Java](https://github.com/fismael21/fismael21/blob/main/img/Java-64.png)
-![JavaScript](https://github.com/fismael21/fismael21/blob/main/img/JS-64.png)
-
-## Databases
-
-![MySQL](https://github.com/fismael21/fismael21/blob/main/img/MySQL-64.png)
-
-
-
 
 
 <!--
