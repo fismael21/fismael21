@@ -1,4 +1,4 @@
-![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Cover.png)
+![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Cover-1.png)
 
 # Hello, World!
 
