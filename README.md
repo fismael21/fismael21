@@ -1,5 +1,3 @@
-![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Cover-1.png)
-
 # Hello, World!
 
 I'm a software engineering student focused on creating and developing quality software.
