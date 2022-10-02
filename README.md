@@ -21,10 +21,7 @@ High School Diploma
 - Sass
 - React.js
 ### Back-End Development
-- Java
-- PHP
-- Python
-- Node.js
+<img src="https://github.com/fismael21/fismael21/blob/main/img/node.js.png" alt="node.js" width="48" height="48"/> <img src="https://github.com/fismael21/fismael21/blob/main/img/java.svg" alt="java" width="48" height="48"/> <img src="https://github.com/fismael21/fismael21/blob/main/img/php.svg" alt="php" width="48" height="48"/>  <img src="https://github.com/fismael21/fismael21/blob/main/img/python.svg" alt="python" width="48" height="48"/> 
 
 ![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
 
