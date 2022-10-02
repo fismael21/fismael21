@@ -22,7 +22,7 @@ High School Diploma
 
 ![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
 
-### Personal Interests ☕
+## Personal Interests ☕
 - YouTube Channel
 - Gymnastics
 - Traveling
@@ -31,15 +31,19 @@ High School Diploma
 
 ![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
 
+## My GitHub Stats
+
 <div align="center">
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fismael21&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fismael21&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-  
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fismael21&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fismael21&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
+
+<p><i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i></p>
 
 ![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
 
-### Contact Me 📧
+## Contact Me 📧
 **Email:** fernandoismaelcaballero@gmail.com
 
 **Cellphone:** +52 9994138554
