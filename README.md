@@ -1,10 +1,10 @@
-# Fernando Canul Caballero
+# Fernando Canul Caballero 🙋‍♂️
 
-## About Me
+## About Me 🙆‍♂️ 💻
 I'm a **software engineer**, **web development** and **web designer** student focusing on creating good quality software products and beautiful and optimized web pages and applications.
 ![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
 
-## Education
+## Education 🏫 
 ### Facultad de Matemáticas - UADY
 Bachelor's Degree in Software Engineering
 ### Preparatoria Uno - UADY
@@ -12,7 +12,7 @@ High School Diploma
 
 ![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
 
-## Progamming Languages, Libraries and Frameworks
+## Progamming Languages, Libraries and Frameworks 🖥️
 ### Frond-End Development
 - HTML
 - CSS
@@ -27,7 +27,16 @@ High School Diploma
 
 ![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
 
-### Contact Me
+### Personal Interests ☕
+- YouTube Channel
+- Gymnastics
+- Traveling
+- 3D Animation
+- Drawing and Painting
+
+![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+
+### Contact Me 📧
 **Email:** fernandoismaelcaballero@gmail.com
 
 **Cellphone:** +52 9994138554
