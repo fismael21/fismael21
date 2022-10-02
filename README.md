@@ -59,6 +59,8 @@ High School Diploma
 ![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
 
 ### Contact Me 📧
+<img src="https://github.com/fismael21/fismael21/blob/main/img/gif-1.gif" alt="smile" width="auto" height="128"/>
+
 **Email:** fernandoismaelcaballero@gmail.com
 
 **GitHub:** @fismael21
