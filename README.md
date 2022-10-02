@@ -31,6 +31,14 @@ High School Diploma
 
 ![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
 
+<div align="center">
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fismael21&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fismael21&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+
+![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+
 ### Contact Me 📧
 **Email:** fernandoismaelcaballero@gmail.com
 
@@ -41,18 +49,3 @@ High School Diploma
 **Linkedin:** Fernando Canul Caballero
 
 ![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
-
-<!--
-**fismael21/fismael21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
