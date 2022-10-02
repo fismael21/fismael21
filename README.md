@@ -2,7 +2,7 @@
 ![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Cover-Quote-1.png)
 
 ### About Me 🙆‍♂️ 💻
-I'm a **software engineer**, **web development** and **web designer** student focusing on creating good quality software products and beautiful and optimized web pages and applications. 
+I'm a **software engineering**, **web developer** and **web designer** student focusing on creating good quality software products and beautiful and optimized web pages and applications. 
 ![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
 
 ### Education 🏫
@@ -60,8 +60,6 @@ High School Diploma
 
 ### Contact Me 📧
 **Email:** fernandoismaelcaballero@gmail.com
-
-**Cellphone:** +52 9994138554
 
 **GitHub:** @fismael21
 
