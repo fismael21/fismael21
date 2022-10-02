@@ -1,5 +1,5 @@
 # Fernando Canul Caballero 🙋‍♂️
-![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Cover-Quote.png)
+![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Cover-Quote-2.png)
 
 ## About Me 🙆‍♂️ 💻
 I'm a **software engineer**, **web development** and **web designer** student focusing on creating good quality software products and beautiful and optimized web pages and applications.
