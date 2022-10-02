@@ -25,7 +25,7 @@ High School Diploma
 - 3D Animation
 - Drawing and Painting
 
-### My GitHub Stats ![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+### My GitHub Stats ⌨️ ![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
 
 <div align="center">
 
