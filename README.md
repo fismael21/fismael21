@@ -15,11 +15,8 @@ High School Diploma
 
 ## Progamming Languages, Libraries and Frameworks 🖥️
 ### Frond-End Development
-- HTML
-- CSS
-- JavaScript
-- Sass
-- React.js
+<img src="https://github.com/fismael21/fismael21/blob/main/img/html.svg" alt="html" width="48" height="48"/> <img src="https://github.com/fismael21/fismael21/blob/main/img/css.svg" alt="css" width="48" height="48"/> <img src="https://github.com/fismael21/fismael21/blob/main/img/js.svg" alt="javascript" width="48" height="48"/><img src="https://github.com/fismael21/fismael21/blob/main/img/sass.svg" alt="sass" width="48" height="48"/> <img src="https://github.com/fismael21/fismael21/blob/main/img/react.svg" alt="react" width="48" height="48"/>
+
 ### Back-End Development
 <img src="https://github.com/fismael21/fismael21/blob/main/img/node.js.png" alt="node.js" width="48" height="48"/> <img src="https://github.com/fismael21/fismael21/blob/main/img/java.svg" alt="java" width="48" height="48"/> <img src="https://github.com/fismael21/fismael21/blob/main/img/php.svg" alt="php" width="48" height="48"/>  <img src="https://github.com/fismael21/fismael21/blob/main/img/python.svg" alt="python" width="48" height="48"/> 
 
