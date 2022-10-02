@@ -35,7 +35,7 @@ High School Diploma
 <div align="center">
 
 <img src="https://github.com/fismael21/fismael21/blob/main/img/youtube.svg" alt="youtube" width="48" height="48"/> 
-<p>YouTube Channel<p/>
+  <p><a href="https://www.youtube.com/ElegidoOmG" target="_blank">YouTube Channel</a><p/>
 
 <img src="https://github.com/fismael21/fismael21/blob/main/img/gym.png" alt="gym" width="48" height="48"/> 
 <p>Gymnastics<p/>
