@@ -35,6 +35,22 @@ High School Diploma
 
 ![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
 
+
+## My Best and Favorite Works
+
+### Frond-End
+
+- [Omnifood Proyect](https://github.com/fismael21/Omnifood-Optimizations) 
+> Design made by [Jonas Schmedtmann](https://github.com/jonasschmedtmann)
+- [Natours Proyect](https://github.com/fismael21/Natours)
+> Design made by [Jonas Schmedtmann](https://github.com/jonasschmedtmann)
+
+### Desktop
+
+- [Java-CRUD](https://github.com/fismael21/Java-CRUD)
+
+![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+
 ### Personal Interests ☕
 
 <div align="center">
