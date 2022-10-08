@@ -90,12 +90,13 @@ High School Diploma
 ![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
 
 ### Contact Me 😄
+
+<div align="center">
+
 <img src="https://github.com/fismael21/fismael21/blob/main/img/gif-1.gif" alt="smile" width="auto" height="128"/>
 
-**Email:** fernandoismaelcaballero@gmail.com
+<a href="fernandoismaelcaballero@gmail.com" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/email.png" alt="email" width="48" height="48"/></a><a href="#" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/github.png" alt="github" width="48" height="48"/></a><a href="#" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/linkedin.png" alt="linkedin" width="48" height="48"/></a>
 
-**GitHub:** @fismael21
-
-**Linkedin:** Fernando Canul Caballero
+<div>
 
 ![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
