@@ -15,12 +15,27 @@ High School Diploma
 ### Progamming Languages, Libraries and Frameworks 🖥️
 
 #### Frond-End Development
-<a href="https://html.com" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/html.svg" alt="html" width="48" height="48"/></a> <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/css.svg" alt="css" width="48" height="48"/></a> <a href="https://www.javascript.com" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/js.svg" alt="javascript" width="48" height="48"/></a> <a href="https://sass-lang.com" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/sass.svg" alt="sass" width="48" height="48"/></a> <a href="https://reactjs.org" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/react.svg" alt="react" width="48" height="48"/></a>
 
+- [HTML](https://github.com/fismael21/fismael21/blob/main/programming_languages/HTML.md)
+- [CSS](https://github.com/fismael21/fismael21/blob/main/programming_languages/CSS.md)
+- [JavaScript](https://github.com/fismael21/fismael21/blob/main/programming_languages/JavaScript.md)
+- [Sass](https://github.com/fismael21/fismael21/blob/main/programming_languages/Sass.md)
+- [React.js](https://github.com/fismael21/fismael21/blob/main/programming_languages/React.md)
+
+<!--
+<a href="https://html.com" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/html.svg" alt="html" width="48" height="48"/></a> <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/css.svg" alt="css" width="48" height="48"/></a> <a href="https://www.javascript.com" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/js.svg" alt="javascript" width="48" height="48"/></a> <a href="https://sass-lang.com" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/sass.svg" alt="sass" width="48" height="48"/></a> <a href="https://reactjs.org" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/react.svg" alt="react" width="48" height="48"/></a>
+-->
 #### Back-End Development
+
+- [Node.js](https://github.com/fismael21/fismael21/blob/main/programming_languages/Node.md)
+- [Java](https://github.com/fismael21/fismael21/blob/main/programming_languages/Java.md)
+- [PHP](https://github.com/fismael21/fismael21/blob/main/programming_languages/PHP.md)
+- [Python](https://github.com/fismael21/fismael21/blob/main/programming_languages/Python.md)
+
+<!--
 <a href="https://nodejs.org/en" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/node.js.png" alt="node.js" width="48" height="48"/></a> <a href="https://www.oracle.com/java" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/java.svg" alt="java" width="48" height="48"/></a> <a href="https://www.php.net" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/php.svg" alt="php" width="48" height="48"/></a> <a href="https://www.python.org" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/python.svg" alt="python" width="48" height="48"/></a>
 ![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
-
+-->
 ### My GitHub Stats ⌨️
 
 <div align="center">
