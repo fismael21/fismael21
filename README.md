@@ -95,7 +95,7 @@ High School Diploma
 
 <img src="https://github.com/fismael21/fismael21/blob/main/img/gif-1.gif" alt="smile" width="auto" height="128"/>
 
-<a href="fernandoismaelcaballero@gmail.com" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/email.png" alt="email" width="48" height="48"/></a><a href="https://github.com/fismael21" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/github.png" alt="github" width="48" height="48"/></a><a href="" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/linkedin.png" alt="linkedin" width="48" height="48"/></a>
+<a href="mailto:fernandoismaelcaballero@gmail.com" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/email.png" alt="email" width="48" height="48"/></a><a href="https://github.com/fismael21" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/github.png" alt="github" width="48" height="48"/></a><a href="https://linkedin.com/in/fernando-canul-caballero-85a09116b" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/linkedin.png" alt="linkedin" width="48" height="48"/></a>
 
 <div>
 
