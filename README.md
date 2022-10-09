@@ -115,7 +115,7 @@ Content:
 <div align="center">
 
 <a href="#">
-<img src="https://github.com/fismael21/fismael21/blob/main/img/gifs/gif-1.gif" alt="smile" width="auto" height="200"/>
+<img src="https://github.com/fismael21/fismael21/blob/main/img/gifs/gif-1.gif" alt="smile" width="auto" height="180"/>
 </a>
 
 <a href="mailto:fernandoismaelcaballero@gmail.com" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/contact/email.png" alt="email" width="48" height="48"/></a><a href="https://github.com/fismael21" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/contact/github.png" alt="github" width="48" height="48"/></a><a href="https://linkedin.com/in/fernando-canul-caballero-85a09116b" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/contact/linkedin.png" alt="linkedin" width="48" height="48"/></a>
