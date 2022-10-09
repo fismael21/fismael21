@@ -87,42 +87,25 @@ Content:
 
 <div align="center">
 
-<img src="https://github.com/fismael21/fismael21/blob/main/img/hobbies/youtube.svg" alt="youtube" width="48" height="48"/> <img src="https://github.com/fismael21/fismael21/blob/main/img/hobbies/microphone.png" alt="microphone" width="48" height="48"/>
-
-  <p><a href="https://www.youtube.com/ElegidoOmG" target="_blank">YouTube Channel</a><p/>
-
-<img src="https://github.com/fismael21/fismael21/blob/main/img/hobbies/running.png" alt="running" width="48" height="48"/> <img src="https://github.com/fismael21/fismael21/blob/main/img/hobbies/gym.png" alt="gym" width="48" height="48"/>
-
-<p>Gymnastics<p/>
-
-<img src="https://github.com/fismael21/fismael21/blob/main/img/hobbies/coffee.png" alt="coffee" width="48" height="48"/> <img src="https://github.com/fismael21/fismael21/blob/main/img/hobbies/book.png" alt="book" width="48" height="48"/>
-
-<p>Reading</p>
-
-<img src="https://github.com/fismael21/fismael21/blob/main/img/hobbies/blender.svg" alt="blender" width="48" height="48"/> <img src="https://github.com/fismael21/fismael21/blob/main/img/hobbies/animation.png" alt="animation" width="48" height="48"/>
-<a href="https://www.blender.org" target="_blank"><p>3D Animation</p></a>
-
-<img src="https://github.com/fismael21/fismael21/blob/main/img/hobbies/drawing-2.png" alt="drawing" width="48" height="48"/> <img src="https://github.com/fismael21/fismael21/blob/main/img/hobbies/drawing.png" alt="drawing" width="48" height="48"/>
-
-<p>Drawing and Painting</p>
+<a href="https://www.youtube.com/ElegidoOmG" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/hobbies/youtube.svg" alt="youtube" width="80" height="80"/></a> <img src="https://github.com/fismael21/fismael21/blob/main/img/hobbies/microphone.png" alt="microphone" width="80" height="80"/> <img src="https://github.com/fismael21/fismael21/blob/main/img/hobbies/running.png" alt="running" width="80" height="80"/> <img src="https://github.com/fismael21/fismael21/blob/main/img/hobbies/gym.png" alt="gym" width="80" height="80"/> <img src="https://github.com/fismael21/fismael21/blob/main/img/hobbies/coffee.png" alt="coffee" width="80" height="80"/> <img src="https://github.com/fismael21/fismael21/blob/main/img/hobbies/book.png" alt="book" width="80" height="80"/> <a href="https://www.blender.org" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/hobbies/blender.svg" alt="blender" width="80" height="80"/></a> <img src="https://github.com/fismael21/fismael21/blob/main/img/hobbies/animation.png" alt="animation" width="80" height="80"/> <img src="https://github.com/fismael21/fismael21/blob/main/img/hobbies/drawing-2.png" alt="drawing" width="80" height="80"/> <img src="https://github.com/fismael21/fismael21/blob/main/img/hobbies/drawing.png" alt="drawing" width="80" height="80"/>
 
 </div>
 
 ![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
 
-### Contact Me 😄
+### Contact Me
 
 <div align="center">
 
+<a href="mailto:fernandoismaelcaballero@gmail.com" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/contact/email.png" alt="email" width="96" height="96"/></a><a href="https://github.com/fismael21" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/contact/github.png" alt="github" width="96" height="96"/></a><a href="https://linkedin.com/in/fernando-canul-caballero-85a09116b" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/contact/linkedin.png" alt="linkedin" width="96" height="96"/></a>
+
 <a href="#">
-<img src="https://github.com/fismael21/fismael21/blob/main/img/gifs/gif-1.gif" alt="smile" width="auto" height="180"/>
+<img src="https://github.com/fismael21/fismael21/blob/main/img/gifs/gif-1.gif" alt="smile" width="auto" height="160"/>
 </a> 
 <a href="#">
-<img src="https://github.com/fismael21/fismael21/blob/main/img/gifs/gif-2.gif" alt="smile" width="auto" height="180"/>
+<img src="https://github.com/fismael21/fismael21/blob/main/img/gifs/gif-2.gif" alt="smile" width="auto" height="160"/>
 </a>
-
-<a href="mailto:fernandoismaelcaballero@gmail.com" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/contact/email.png" alt="email" width="48" height="48"/></a><a href="https://github.com/fismael21" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/contact/github.png" alt="github" width="48" height="48"/></a><a href="https://linkedin.com/in/fernando-canul-caballero-85a09116b" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/contact/linkedin.png" alt="linkedin" width="48" height="48"/></a>
-
+  
 <div>
 
 ![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
