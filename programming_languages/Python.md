@@ -9,10 +9,11 @@
 ![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
 
 ### Beginner
+
 - **Variables** in Python to manage data ✔
 - **Data types** and how to manipulate **strings** ✔
 - **Control flow** and **logical operators** ✔
-- **Randomisation** and Python **lists** ✔
+- **Randomization** and Python **lists** ✔
 - Python **loops** ✔
 - Python **functions** and Karel ✔
 - Hangman ✔
