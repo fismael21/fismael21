@@ -18,9 +18,18 @@ Bachelor's Degree in Software Engineering
 High School Diploma
 ![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
 
-### Certificates
+### Certificates :scroll:
 
-- #### Build Responsive Real-World Websites with HTML and CSS
+#### [Build Responsive Real-World Websites with HTML and CSS](https://github.com/fismael21/fismael21/blob/main/certificates/HTML_CSS_Jonas.pdf)
+The #1 bestselling HTML and CSS course on Udemy (2022). :trophy: 
+
+Content:
+- HTML Fundamentals ✔
+- CSS Fundamentals ✔
+- Layouts: Floats, Flexbox, and CSS Grid Fundamentals ✔
+- Web Design Rules and Framework ✔
+- Components and Layout Patterns ✔
+- [Omnifood Project](https://github.com/fismael21/Omnifood-Optimizations) (Responsive Web Design) ✔
 
 ![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
 
