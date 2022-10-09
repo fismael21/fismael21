@@ -28,20 +28,12 @@ High School Diploma
 - [Sass](https://github.com/fismael21/fismael21/blob/main/programming_languages/Sass.md)
 - [React.js](https://github.com/fismael21/fismael21/blob/main/programming_languages/React.md)
 
-<!--
-<a href="https://html.com" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/html.svg" alt="html" width="48" height="48"/></a> <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/css.svg" alt="css" width="48" height="48"/></a> <a href="https://www.javascript.com" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/js.svg" alt="javascript" width="48" height="48"/></a> <a href="https://sass-lang.com" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/sass.svg" alt="sass" width="48" height="48"/></a> <a href="https://reactjs.org" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/react.svg" alt="react" width="48" height="48"/></a>
--->
-
 #### Back-End Development
 
 - [Node.js](https://github.com/fismael21/fismael21/blob/main/programming_languages/Node.md)
 - [Java](https://github.com/fismael21/fismael21/blob/main/programming_languages/Java.md)
 - [PHP](https://github.com/fismael21/fismael21/blob/main/programming_languages/PHP.md)
 - [Python](https://github.com/fismael21/fismael21/blob/main/programming_languages/Python.md)
-
-<!--
-<a href="https://nodejs.org/en" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/node.js.png" alt="node.js" width="48" height="48"/></a> <a href="https://www.oracle.com/java" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/java.svg" alt="java" width="48" height="48"/></a> <a href="https://www.php.net" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/php.svg" alt="php" width="48" height="48"/></a> <a href="https://www.python.org" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/python.svg" alt="python" width="48" height="48"/></a>
--->
 
 ![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
 
@@ -80,22 +72,22 @@ High School Diploma
 
 <div align="center">
 
-<img src="https://github.com/fismael21/fismael21/blob/main/img/youtube.svg" alt="youtube" width="48" height="48"/> <img src="https://github.com/fismael21/fismael21/blob/main/img/microphone.png" alt="microphone" width="48" height="48"/>
+<img src="https://github.com/fismael21/fismael21/blob/main/img/hobbies/youtube.svg" alt="youtube" width="48" height="48"/> <img src="https://github.com/fismael21/fismael21/blob/main/img/hobbies/microphone.png" alt="microphone" width="48" height="48"/>
 
   <p><a href="https://www.youtube.com/ElegidoOmG" target="_blank">YouTube Channel</a><p/>
 
-<img src="https://github.com/fismael21/fismael21/blob/main/img/running.png" alt="running" width="48" height="48"/> <img src="https://github.com/fismael21/fismael21/blob/main/img/gym.png" alt="gym" width="48" height="48"/>
+<img src="https://github.com/fismael21/fismael21/blob/main/img/hobbies/running.png" alt="running" width="48" height="48"/> <img src="https://github.com/fismael21/fismael21/blob/main/img/hobbies/gym.png" alt="gym" width="48" height="48"/>
 
 <p>Gymnastics<p/>
 
-<img src="https://github.com/fismael21/fismael21/blob/main/img/coffee.png" alt="coffee" width="48" height="48"/> <img src="https://github.com/fismael21/fismael21/blob/main/img/book.png" alt="book" width="48" height="48"/>
+<img src="https://github.com/fismael21/fismael21/blob/main/img/hobbies/coffee.png" alt="coffee" width="48" height="48"/> <img src="https://github.com/fismael21/fismael21/blob/main/img/hobbies/book.png" alt="book" width="48" height="48"/>
 
 <p>Reading</p>
 
-<img src="https://github.com/fismael21/fismael21/blob/main/img/blender.svg" alt="blender" width="48" height="48"/> <img src="https://github.com/fismael21/fismael21/blob/main/img/animation.png" alt="animation" width="48" height="48"/>
+<img src="https://github.com/fismael21/fismael21/blob/main/img/hobbies/blender.svg" alt="blender" width="48" height="48"/> <img src="https://github.com/fismael21/fismael21/blob/main/img/hobbies/animation.png" alt="animation" width="48" height="48"/>
 <a href="https://www.blender.org" target="_blank"><p>3D Animation</p></a>
 
-<img src="https://github.com/fismael21/fismael21/blob/main/img/drawing-2.png" alt="drawing" width="48" height="48"/> <img src="https://github.com/fismael21/fismael21/blob/main/img/drawing.png" alt="drawing" width="48" height="48"/>
+<img src="https://github.com/fismael21/fismael21/blob/main/img/hobbies/drawing-2.png" alt="drawing" width="48" height="48"/> <img src="https://github.com/fismael21/fismael21/blob/main/img/hobbies/drawing.png" alt="drawing" width="48" height="48"/>
 
 <p>Drawing and Painting</p>
 
@@ -108,10 +100,10 @@ High School Diploma
 <div align="center">
 
 <a href="#">
-<img src="https://github.com/fismael21/fismael21/blob/main/img/gif-1.gif" alt="smile" width="auto" height="128"/>
+<img src="https://github.com/fismael21/fismael21/blob/main/img/gifs/gif-1.gif" alt="smile" width="auto" height="128"/>
 </a>
 
-<a href="mailto:fernandoismaelcaballero@gmail.com" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/email.png" alt="email" width="48" height="48"/></a><a href="https://github.com/fismael21" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/github.png" alt="github" width="48" height="48"/></a><a href="https://linkedin.com/in/fernando-canul-caballero-85a09116b" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/linkedin.png" alt="linkedin" width="48" height="48"/></a>
+<a href="mailto:fernandoismaelcaballero@gmail.com" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/contact/email.png" alt="email" width="48" height="48"/></a><a href="https://github.com/fismael21" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/contact/github.png" alt="github" width="48" height="48"/></a><a href="https://linkedin.com/in/fernando-canul-caballero-85a09116b" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/contact/linkedin.png" alt="linkedin" width="48" height="48"/></a>
 
 <div>
 

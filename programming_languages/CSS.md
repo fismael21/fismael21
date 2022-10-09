@@ -4,7 +4,7 @@
 
 ## My Knowledge of CSS
 
-<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/css.svg" alt="css" width="96" height="96"/></a>
+<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/skills_1/css.svg" alt="css" width="96" height="96"/></a>
 
 ![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
 

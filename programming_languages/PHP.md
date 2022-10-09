@@ -4,7 +4,7 @@
 
 ## My Knowledge of PHP
 
-<a href="https://nodejs.org/en" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/php.svg" alt="php" width="80" height="80"/></a>
+<a href="https://nodejs.org/en" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/skills_1/php.svg" alt="php" width="80" height="80"/></a>
 
 ![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
 

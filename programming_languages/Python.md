@@ -4,7 +4,7 @@
 
 ## My Knowledge of Python
 
-<a href="https://www.python.org" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/python.svg" alt="python" width="96" height="96"/></a>
+<a href="https://www.python.org" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/skills_1/python.svg" alt="python" width="96" height="96"/></a>
 
 ![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
 

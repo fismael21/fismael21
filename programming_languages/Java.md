@@ -4,7 +4,7 @@
 
 ## My Knowledge of Java
 
-<a href="https://www.oracle.com/java" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/java.svg" alt="java" width="96" height="96"/></a>
+<a href="https://www.oracle.com/java" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/skills_1/java.svg" alt="java" width="96" height="96"/></a>
 
 ![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
 

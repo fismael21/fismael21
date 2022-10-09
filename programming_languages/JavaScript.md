@@ -4,7 +4,7 @@
 
 ## My Knowledge of JavaScript
 
-<a href="https://www.javascript.com" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/js.svg" alt="javascript" width="96" height="96"/></a>
+<a href="https://www.javascript.com" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/skills_1/js.svg" alt="javascript" width="96" height="96"/></a>
 
 ![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
 

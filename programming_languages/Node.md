@@ -4,7 +4,7 @@
 
 ## My Knowledge of Node.js
 
-<a href="https://nodejs.org/en" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/node.js.png" alt="node.js" width="96" height="96"/></a>
+<a href="https://nodejs.org/en" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/skills_1/node.js.png" alt="node.js" width="80" height="80"/></a>
 
 ![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
 

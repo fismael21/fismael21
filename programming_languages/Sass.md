@@ -4,7 +4,7 @@
 
 ## My Knowledge of Sass
 
-<a href="https://sass-lang.com" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/sass.svg" alt="sass" width="96" height="96"/></a>
+<a href="https://sass-lang.com" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/skills_1/sass.svg" alt="sass" width="96" height="96"/></a>
 
 ![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
 
