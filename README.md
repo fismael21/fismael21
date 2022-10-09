@@ -18,6 +18,12 @@ Bachelor's Degree in Software Engineering
 High School Diploma
 ![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
 
+### Certificates
+
+- #### Build Responsive Real-World Websites with HTML and CSS
+
+![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+
 ### Progamming Languages, Libraries and Frameworks 🖥️
 
 #### Frond-End Development
