@@ -105,13 +105,13 @@ Content:
 
 <div align="center">
 
-<a href="mailto:fernandoismaelcaballero@gmail.com" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/contact/email.png" alt="email" width="96" height="96"/></a><a href="https://github.com/fismael21" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/contact/github.png" alt="github" width="96" height="96"/></a><a href="https://linkedin.com/in/fernando-canul-caballero-85a09116b" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/contact/linkedin.png" alt="linkedin" width="96" height="96"/></a>
+<a href="mailto:fernandoismaelcaballero@gmail.com" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/contact/email.png" alt="email" width="60" height="60"/></a><a href="https://github.com/fismael21" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/contact/github.png" alt="github" width="60" height="60"/></a><a href="https://linkedin.com/in/fernando-canul-caballero-85a09116b" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/contact/linkedin.png" alt="linkedin" width="60" height="60"/></a>
 
 <a href="#">
-<img src="https://github.com/fismael21/fismael21/blob/main/img/gifs/gif-1.gif" alt="smile" width="auto" height="160"/>
+<img src="https://github.com/fismael21/fismael21/blob/main/img/gifs/gif-1.gif" alt="smile" width="auto" height="148"/>
 </a> 
 <a href="#">
-<img src="https://github.com/fismael21/fismael21/blob/main/img/gifs/gif-2.gif" alt="smile" width="auto" height="160"/>
+<img src="https://github.com/fismael21/fismael21/blob/main/img/gifs/gif-2.gif" alt="smile" width="auto" height="148"/>
 </a>
   
 <div>
