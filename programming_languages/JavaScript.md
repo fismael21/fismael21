@@ -1,7 +1,7 @@
 # My Knowledge of JavaScript
 
 <div align="center">
-<img src="../img/skills_1/js.svg" alt="js" width="240" height="240"/>
+<img src="../img/skills/js.svg" alt="js" width="240" height="240"/>
 </div>
 
 ![BackGround](../img/Line.png)

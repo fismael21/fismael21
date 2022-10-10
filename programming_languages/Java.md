@@ -1,7 +1,7 @@
 # My Knowledge of Java
 
 <div align="center">
-<img src="../img/skills_1/java.svg" alt="java" width="240" height="240"/>
+<img src="../img/skills/java.svg" alt="java" width="240" height="240"/>
 </div>
 
 ![BackGround](../img/Line.png)

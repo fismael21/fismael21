@@ -1,7 +1,7 @@
 # My Knowledge of React
 
 <div align="center">
-<img src="../img/skills_1/react.svg" alt="php" width="240" height="240"/>
+<img src="../img/skills/react.svg" alt="php" width="240" height="240"/>
 </div>
 
 ![BackGround](../img/Line.png)

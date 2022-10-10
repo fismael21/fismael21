@@ -1,7 +1,7 @@
 # My Knowledge of CSS
 
 <div align="center">
-<img src="../img/skills_1/css.svg" alt="css" width="240" height="240"/>
+<img src="../img/skills/css.svg" alt="css" width="240" height="240"/>
 </div>
 
 ![BackGround](../img/Line.png)

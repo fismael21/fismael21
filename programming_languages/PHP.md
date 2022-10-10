@@ -1,7 +1,7 @@
 # My Knowledge of PHP
 
 <div align="center">
-<img src="../img/skills_1/php.svg" alt="php" width="240" height="240"/>
+<img src="../img/skills/php.svg" alt="php" width="240" height="240"/>
 </div>
 
 ![BackGround](../img/Line.png)

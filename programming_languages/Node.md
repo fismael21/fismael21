@@ -1,7 +1,7 @@
 # My Knowledge of Node.js
 
 <div align="center">
-<img src="../img/skills_1/node.svg" alt="node.svg" width="240" height="240"/>
+<img src="../img/skills/node.svg" alt="node.svg" width="240" height="240"/>
 </div>
 
 ![BackGround](../img/Line.png)

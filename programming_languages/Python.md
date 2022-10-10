@@ -1,7 +1,7 @@
 # My Knowledge of Python
 
 <div align="center">
-<img src="../img/skills_1/python.svg" alt="python" width="240" height="240"/>
+<img src="../img/skills/python.svg" alt="python" width="240" height="240"/>
 </div>
 
 ## Beginner
