@@ -1,14 +1,10 @@
-# Python
+# My Knowledge of Python
 
-<a href="#"><img src="https://github.com/fismael21/fismael21/blob/main/img/background_2/Background_Pack_2_6.png" alt="python" align="center"/></a>
+<div align="center">
+<img src="../img/skills_1/python.svg" alt="python" width="240" height="240"/>
+</div>
 
-## My Knowledge of Python
-
-<a href="https://www.python.org" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/skills_1/python.svg" alt="python" width="96" height="96"/></a>
-
-![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
-
-### Beginner
+## Beginner
 
 - **Variables** in Python to manage data ✔
 - **Data types** and how to manipulate **strings** ✔
@@ -17,15 +13,15 @@
 - Python **loops** ✔
 - Python **functions** and Karel ✔
 - Hangman ✔
-- **Function parameters** and Ceaser Cipher ✔
+- **Function parameters** and Caesar Cipher ✔
 - **Dictionaries nesting** and the Secret Auction ✔
 
-![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+![BackGround](../img/Line.png)
 
-### Intermediate
+## Intermediate
 
-![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+![BackGround](../img/Line.png)
 
-### Advanced
+## Advanced
 
-![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+![BackGround](../img/Line.png)

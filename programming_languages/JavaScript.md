@@ -1,21 +1,19 @@
-# JavaScript
+# My Knowledge of JavaScript
 
-<a href="#"><img src="https://github.com/fismael21/fismael21/blob/main/img/background_2/Background_Pack_2_2.png" alt="javascript" align="center"/></a>
+<div align="center">
+<img src="../img/skills_1/js.svg" alt="js" width="240" height="240"/>
+</div>
 
-## My Knowledge of JavaScript
+![BackGround](../img/Line.png)
 
-<a href="https://www.javascript.com" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/skills_1/js.svg" alt="javascript" width="96" height="96"/></a>
+## Beginner
 
-![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+![BackGround](../img/Line.png)
 
-### Beginner
+## Intermediate
 
-![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+![BackGround](../img/Line.png)
 
-### Intermediate
+## Advanced
 
-![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
-
-### Advanced
-
-![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+![BackGround](../img/Line.png)

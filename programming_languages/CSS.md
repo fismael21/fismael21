@@ -1,21 +1,19 @@
-# CSS
+# My Knowledge of CSS
 
-<a href="#"><img src="https://github.com/fismael21/fismael21/blob/main/img/background_2/Background_Pack_2_1.png" alt="html" align="center"/></a>
+<div align="center">
+<img src="../img/skills_1/css.svg" alt="css" width="240" height="240"/>
+</div>
 
-## My Knowledge of CSS
+![BackGround](../img/Line.png)
 
-<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/skills_1/css.svg" alt="css" width="96" height="96"/></a>
+## Beginner
 
-![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+![BackGround](../img/Line.png)
 
-### Beginner
+## Intermediate
 
-![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+![BackGround](../img/Line.png)
 
-### Intermediate
+## Advanced
 
-![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
-
-### Advanced
-
-![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+![BackGround](../img/Line.png)

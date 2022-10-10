@@ -1,21 +1,19 @@
-# PHP
+# My Knowledge of PHP
 
-<a href="#"><img src="https://github.com/fismael21/fismael21/blob/main/img/background_2/Background_Pack_2_8.png" alt="php" align="center"/></a>
+<div align="center">
+<img src="../img/skills_1/php.svg" alt="php" width="240" height="240"/>
+</div>
 
-## My Knowledge of PHP
+![BackGround](../img/Line.png)
 
-<a href="https://nodejs.org/en" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/skills_1/php.svg" alt="php" width="80" height="80"/></a>
+## Beginner
 
-![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+![BackGround](../img/Line.png)
 
-### Beginner
+## Intermediate
 
-![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+![BackGround](../img/Line.png)
 
-### Intermediate
+## Advanced
 
-![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
-
-### Advanced
-
-![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+![BackGround](../img/Line.png)

@@ -1,21 +1,19 @@
-# Java
+# My Knowledge of Java
 
-<a href="#"><img src="https://github.com/fismael21/fismael21/blob/main/img/background_2/Background_Pack_2_5.png" alt="java" align="center"/></a>
+<div align="center">
+<img src="../img/skills_1/java.svg" alt="java" width="240" height="240"/>
+</div>
 
-## My Knowledge of Java
+![BackGround](../img/Line.png)
 
-<a href="https://www.oracle.com/java" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/skills_1/java.svg" alt="java" width="96" height="96"/></a>
+## Beginner
 
-![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+![BackGround](../img/Line.png)
 
-### Beginner
+## Intermediate
 
-![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+![BackGround](../img/Line.png)
 
-### Intermediate
+## Advanced
 
-![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
-
-### Advanced
-
-![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+![BackGround](../img/Line.png)

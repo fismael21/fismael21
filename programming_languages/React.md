@@ -1,21 +1,19 @@
-# React.js
+# My Knowledge of React
 
-<a href="#"><img src="https://github.com/fismael21/fismael21/blob/main/img/background_2/Background_Pack_2_4.png" alt="react" align="center"/></a>
+<div align="center">
+<img src="../img/skills_1/react.svg" alt="php" width="240" height="240"/>
+</div>
 
-## My Knowledge of React.js
+![BackGround](../img/Line.png)
 
-<a href="https://reactjs.org" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/skills_1/react.svg" alt="react.js" width="80" height="80"/></a>
+## Beginner
 
-![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+![BackGround](../img/Line.png)
 
-### Beginner
+## Intermediate
 
-![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+![BackGround](../img/Line.png)
 
-### Intermediate
+## Advanced
 
-![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
-
-### Advanced
-
-![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+![BackGround](../img/Line.png)
