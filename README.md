@@ -85,10 +85,6 @@ Content:
 - [Natours Proyect](https://github.com/fismael21/Natours)
   > Design made by [Jonas Schmedtmann](https://github.com/jonasschmedtmann)
 
-### Desktop
-
-- [Java-CRUD](https://github.com/fismael21/Java-CRUD)
-
 ![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
 
 ### Personal Interests ☕
