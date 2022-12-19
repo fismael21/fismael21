@@ -26,7 +26,7 @@ High School Diploma
 
 ### Certificates
 
-#### [Build Responsive Real-World Websites with HTML and CSS](https://github.com/fismael21/fismael21/blob/main/certificates/certificate-1.jpg)
+#### [Build Responsive Real-World Websites with HTML and CSS](https://github.com/fismael21/fismael21/blob/main/certificates/certificate-1.pdf)
 
 Content:
 
