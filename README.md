@@ -1,21 +1,21 @@
-# Fernando Canul Caballero 🙋‍♂️
+# Fernando Canul Caballero
 
-![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Cover-Quote-1.png)
+![BackGround](img/Quote-1.png)
 
-### About Me 🙆‍♂️ 💻
+## About Me
 
 I'm a **software engineering**, **web developer** and **web designer** student focusing on creating good quality software products and **innovative**, **modern** and **optimized** web pages and applications.
-![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+![BackGround](img/Line.png)
 
 ### My Best GitHub Repositories
 
-![Repositories](https://github.com/fismael21/fismael21/blob/main/img/Repositories.png)
+![Repositories](img/Repositories.png)
 
 - [Python Course](https://github.com/fismael21/Python-Course)
 
-![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+![BackGround](img/Line.png)
 
-### Education 🏫
+### Education
 
 #### Facultad de Matemáticas - UADY
 
@@ -24,14 +24,15 @@ Bachelor's Degree in Software Engineering
 #### Preparatoria Uno - UADY
 
 High School Diploma
-![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+![BackGround](img/Line.png)
 
 ### Certificates :scroll:
 
 #### [Build Responsive Real-World Websites with HTML and CSS](https://github.com/fismael21/fismael21/blob/main/certificates/HTML_CSS_Jonas.pdf)
-The #1 bestselling HTML and CSS course on Udemy (2022). :trophy: 
+The #1 bestselling HTML and CSS course on Udemy (2022). :trophy:
 
 Content:
+
 - HTML Fundamentals ✔
 - CSS Fundamentals ✔
 - Layouts: Floats, Flexbox, and CSS Grid Fundamentals ✔
@@ -39,9 +40,9 @@ Content:
 - Components and Layout Patterns ✔
 - [Omnifood Project](https://github.com/fismael21/Omnifood-Optimizations) (Responsive Web Design) ✔
 
-![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+![BackGround](img/Line.png)
 
-### Progamming Languages, Libraries and Frameworks 🖥️
+### Progamming Languages, Libraries and Frameworks
 
 #### Frond-End Development
 
@@ -58,11 +59,9 @@ Content:
 - [PHP](https://github.com/fismael21/fismael21/blob/main/programming_languages/PHP.md)
 - [Python](https://github.com/fismael21/fismael21/blob/main/programming_languages/Python.md)
 
-![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+![BackGround](img/Line.png)
 
-### My GitHub Stats ⌨️
-
-<div align="center">
+### My GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fismael21&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -70,11 +69,9 @@ Content:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fismael21&langs_count=8&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+Note. Most used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<p><i><b>Note:</b> Most used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i></p>
-
-![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+![BackGround](img/Line.png)
 
 ## My Best and Favorite Works
 
@@ -85,31 +82,4 @@ Content:
 - [Natours Proyect](https://github.com/fismael21/Natours)
   > Design made by [Jonas Schmedtmann](https://github.com/jonasschmedtmann)
 
-![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
-
-### Personal Interests ☕
-
-<div align="center">
-
-<a href="https://www.youtube.com/ElegidoOmG" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/hobbies/youtube.svg" alt="youtube" width="60" height="60"/></a> <img src="https://github.com/fismael21/fismael21/blob/main/img/hobbies/microphone.png" alt="microphone" width="60" height="60"/> <img src="https://github.com/fismael21/fismael21/blob/main/img/hobbies/running.png" alt="running" width="60" height="60"/> <img src="https://github.com/fismael21/fismael21/blob/main/img/hobbies/gym.png" alt="gym" width="60" height="60"/> <img src="https://github.com/fismael21/fismael21/blob/main/img/hobbies/coffee.png" alt="coffee" width="60" height="60"/> <img src="https://github.com/fismael21/fismael21/blob/main/img/hobbies/book.png" alt="book" width="60" height="60"/> <a href="https://www.blender.org" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/hobbies/blender.svg" alt="blender" width="60" height="60"/></a> <img src="https://github.com/fismael21/fismael21/blob/main/img/hobbies/animation.png" alt="animation" width="60" height="60"/> <img src="https://github.com/fismael21/fismael21/blob/main/img/hobbies/drawing-2.png" alt="drawing" width="60" height="60"/> <img src="https://github.com/fismael21/fismael21/blob/main/img/hobbies/drawing.png" alt="drawing" width="60" height="60"/>
-
-</div>
-
-![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
-
-### Contact Me
-
-<div align="center">
-
-<a href="mailto:fernandoismaelcaballero@gmail.com" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/contact/email.png" alt="email" width="60" height="60"/></a><a href="https://github.com/fismael21" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/contact/github.png" alt="github" width="60" height="60"/></a><a href="https://linkedin.com/in/fernando-canul-caballero-85a09116b" target="_blank"><img src="https://github.com/fismael21/fismael21/blob/main/img/contact/linkedin.png" alt="linkedin" width="60" height="60"/></a>
-
-<a href="#">
-<img src="https://github.com/fismael21/fismael21/blob/main/img/gifs/gif-1.gif" alt="smile" width="auto" height="148"/>
-</a> 
-<a href="#">
-<img src="https://github.com/fismael21/fismael21/blob/main/img/gifs/gif-2.gif" alt="smile" width="auto" height="148"/>
-</a>
-  
-<div>
-
-![BackGround](https://github.com/fismael21/fismael21/blob/main/img/Line.png)
+![BackGround](img/Line.png)
