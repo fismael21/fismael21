@@ -5,6 +5,13 @@
 ## About Me
 
 I'm a **software engineering**, **web developer** and **web designer** student focusing on creating good quality software products and **innovative**, **modern** and **optimized** web pages and applications.
+
+![BackGround](img/Line.png)
+
+[Curriculum vitae PDF](cv/Canul_Fernando_CV.pdf)
+
+[Curriculum vitae PNG](cv/Canul_Fernando_CV.png)
+
 ![BackGround](img/Line.png)
 
 ### My Best GitHub Repositories

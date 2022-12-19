@@ -1,3 +1,3 @@
 # CSS
 
-![BackGround](../img/covers/css.svg)
+![BackGround](../img/Line.png)
