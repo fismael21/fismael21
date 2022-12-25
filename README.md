@@ -1,6 +1,6 @@
 # Fernando Canul Caballero
 
-![BackGround](img/Quote-1.png)
+![BackGround](img/cover.png)
 
 ## About Me
 
